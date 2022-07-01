@@ -3,7 +3,7 @@
 This repository contains my solutions for an introductory course in Artificial Intelligence. 
 
 #### Course Outline :
-- Fundamentals of Probability & Naive Bayes
+- Fundamentals of Probability and Naive Bayes
 - Naive Bayes and Bayesian Networks
 - Linear Algebra, gradient descent, introduction to deep neural nets
 - Deep Learning for image perception
