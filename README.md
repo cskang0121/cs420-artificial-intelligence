@@ -1,6 +1,16 @@
 # Artificial Intelligence - Assignment Description
 
-This repository contains my course works for CS420 Introduction to Artificial Intelligence. 
+This repository contains my solutions for an introductory course in Artificial Intelligence. 
+
+#### Course Outline :
+- Fundamentals of Probability & Naive Bayes
+- Naive Bayes and Bayesian Networks
+- Linear Algebra, gradient descent, introduction to deep neural nets
+- Deep Learning for image perception
+- Deep Learning for Natural Processing Language
+- Heuristic Search
+- Markov Decision Problems
+- Reinforcement Learning
 
 ## Assignment 1 
 [assignment1_answer.pdf](https://github.com/cskang0121/artificial-intelligence/blob/main/assignment_1/KANG%20CHIN%20SHEN_CS420_assignment1_answer.pdf) 
