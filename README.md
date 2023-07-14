@@ -1,4 +1,4 @@
-# Artificial Intelligence - Assignment Description
+## CS420 Artificial Intelligence - Assignment Description
 
 This repository contains my solutions for an introductory course in Artificial Intelligence. 
 
