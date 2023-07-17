@@ -1,4 +1,4 @@
-## CS420 Artificial Intelligence
+## SMU CS420 Artificial Intelligence
 
 This repository contains my solutions for an introductory course in Artificial Intelligence. 
 
